@@ -6,7 +6,7 @@
   "tasks": {
     "awadaawd": {
       "name": "run",
-      "command": "yarn ts-node model.ts",
+      "command": "yarn start",
       "runAtStart": true
     }
   }
